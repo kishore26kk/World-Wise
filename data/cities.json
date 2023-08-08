@@ -26,7 +26,7 @@
     },
     {
       "cityName": "Glasgow",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "country": "United Kingdom",
       "emoji": "🇬🇧",
       "date": "2023-07-11T14:08:41.555Z",
       "notes": "My brothers's city",
@@ -35,6 +35,30 @@
         "lng": "-4.254455566406251"
       },
       "id": 73930386
+    },
+    {
+      "cityName": "Villedieu-le-Chateau",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-15T11:06:30.024Z",
+      "notes": "",
+      "position": {
+        "lat": "47.711743937815406",
+        "lng": "0.6372070312500001"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Otyn",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2023-08-04T09:10:44.557Z",
+      "notes": "",
+      "position": {
+        "lat": "51.84215274302543",
+        "lng": "15.732421875000002"
+      },
+      "id": 73930388
     }
   ]
 }
